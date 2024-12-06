@@ -1,0 +1,440 @@
+{
+  "best-products": [
+    {
+      "id": "1",
+      "kode": "K-01",
+      "nama": "Tarowehh Original",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "original.jpg"
+    },
+    {
+      "id": "2",
+      "kode": "K-02",
+      "nama": "Tarowehh Balado",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "balado.jpg"
+    },
+    {
+      "id": "3",
+      "kode": "K-03",
+      "nama": "Tarowehh Coklat",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "coklat.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "kode": "K-01",
+      "nama": "Tarowehh Original",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "original.jpg"
+    },
+    {
+      "id": "2",
+      "kode": "K-02",
+      "nama": "Tarowehh Balado",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "balado.jpg"
+    },
+    {
+      "id": "3",
+      "kode": "K-03",
+      "nama": "Tarowehh Exstra Pedas",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "pedas.jpg"
+    },
+    {
+      "id": "4",
+      "kode": "K-04",
+      "nama": "Tarowehh Jagung Bakar",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "jagung-bakar.jpg"
+    },
+    {
+      "id": "5",
+      "kode": "K-05",
+      "nama": "Tarowehh Coklat",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "coklat.jpg"
+    }
+  ],
+  "keranjangs": [
+    {
+      "id": "6e4c",
+      "jumlah_pemesanan": "4",
+      "keterangan": "antar ke kampus",
+      "products": {
+        "id": "1",
+        "kode": "K-01",
+        "nama": "Tarowehh Original",
+        "harga": 9000,
+        "is_ready": true,
+        "gambar": "original.jpg"
+      }
+    }
+  ],
+  "pesanans": [
+    {
+      "nama": "Restu Anggia",
+      "noMeja": "20",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "keterangan": "Setengah Porsi",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telur",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "7555",
+      "nama": "restu",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "id": "8a40",
+          "jumlah_pemesanan": "2",
+          "keterangan": "cod",
+          "products": {
+            "id": "3",
+            "kode": "K-03",
+            "nama": "Tarowehh Exstra Pedas",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "pedas.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4ddf",
+      "nama": "anggi",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "id": "ef09",
+          "jumlah_pemesanan": "2",
+          "keterangan": "cod",
+          "products": {
+            "id": "3",
+            "kode": "K-03",
+            "nama": "Tarowehh Exstra Pedas",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "pedas.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4480",
+      "nama": "Restu anggia",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "id": "da2d",
+          "jumlah_pemesanan": "2",
+          "keterangan": "ambil sore",
+          "products": {
+            "id": "5",
+            "kode": "K-05",
+            "nama": "Tarowehh Coklat",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "coklat.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "394d",
+      "nama": "Anggia",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "id": "6ba8",
+          "jumlah_pemesanan": "4",
+          "keterangan": "Cod",
+          "products": {
+            "id": "4",
+            "kode": "K-04",
+            "nama": "Tarowehh Jagung Bakar",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "jagung-bakar.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "844f",
+      "nama": "restu",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "id": "6ddc",
+          "jumlah_pemesanan": "2",
+          "keterangan": "jehfjas,ca",
+          "products": {
+            "id": "5",
+            "kode": "K-05",
+            "nama": "Tarowehh Coklat",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "coklat.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b0f5",
+      "nama": "restu ",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "id": "04dd",
+          "jumlah_pemesanan": "4",
+          "keterangan": "nanti sore di ambil",
+          "products": {
+            "id": "4",
+            "kode": "K-04",
+            "nama": "Tarowehh Jagung Bakar",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "jagung-bakar.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9887",
+      "nama": "anggi",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "id": "c4b4",
+          "jumlah_pemesanan": "5",
+          "keterangan": "malem diambil",
+          "products": {
+            "id": "3",
+            "kode": "K-03",
+            "nama": "Tarowehh Exstra Pedas",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "pedas.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3e74",
+      "nama": "agus",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "id": "7c12",
+          "jumlah_pemesanan": "3",
+          "keterangan": "ufujdsnkcs",
+          "products": {
+            "id": "5",
+            "kode": "K-05",
+            "nama": "Tarowehh Coklat",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "coklat.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e5b9",
+      "nama": "restu",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "id": "f940",
+          "jumlah_pemesanan": "4",
+          "keterangan": "jdkvsbsdcs",
+          "products": {
+            "id": "5",
+            "kode": "K-05",
+            "nama": "Tarowehh Coklat",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "coklat.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3795",
+      "nama": "delphi",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "id": "74a9",
+          "jumlah_pemesanan": "2",
+          "keterangan": "sdjnodscnisdsd",
+          "products": {
+            "id": "5",
+            "kode": "K-05",
+            "nama": "Tarowehh Coklat",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "coklat.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "60f8",
+      "nama": "restu",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "id": "b598",
+          "jumlah_pemesanan": "3",
+          "keterangan": "scsds",
+          "products": {
+            "id": "3",
+            "kode": "K-03",
+            "nama": "Tarowehh Exstra Pedas",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "pedas.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0286",
+      "nama": "restu",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "id": "1ea2",
+          "jumlah_pemesanan": "3",
+          "keterangan": "sczs",
+          "products": {
+            "id": "5",
+            "kode": "K-05",
+            "nama": "Tarowehh Coklat",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "coklat.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d8e6",
+      "nama": "anggi",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "id": "adbc",
+          "jumlah_pemesanan": "2",
+          "keterangan": "zczsf",
+          "products": {
+            "id": "4",
+            "kode": "K-04",
+            "nama": "Tarowehh Jagung Bakar",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "jagung-bakar.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1645",
+      "nama": "restu",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "id": "0313",
+          "jumlah_pemesanan": "2",
+          "keterangan": "dcasf",
+          "products": {
+            "id": "4",
+            "kode": "K-04",
+            "nama": "Tarowehh Jagung Bakar",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "jagung-bakar.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1732681413392",
+      "tanggal": "27/11/2024, 11.23.33",
+      "nama": "anggi",
+      "totalHarga": 9000,
+      "keranjangs": [
+        {
+          "id": "fed8",
+          "jumlah_pemesanan": "1",
+          "keterangan": "czcwsdv",
+          "products": {
+            "id": "2",
+            "kode": "K-02",
+            "nama": "Tarowehh Balado",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "balado.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1732681442049",
+      "tanggal": "27/11/2024, 11.24.02",
+      "nama": "restu",
+      "totalHarga": 27000,
+      "keranjangs": [
+        {
+          "id": "fc32",
+          "jumlah_pemesanan": "3",
+          "keterangan": "cod",
+          "products": {
+            "id": "5",
+            "kode": "K-05",
+            "nama": "Tarowehh Coklat",
+            "harga": 9000,
+            "is_ready": true,
+            "gambar": "coklat.jpg"
+          }
+        }
+      ]
+    }
+  ],
+  "riwayatPesanans": [],
+  "stokBarang": [
+    {
+      "id": 1,
+      "tanggal": "2024-12-04",
+      "stokAwal": 5,
+      "jumlahMasuk": 20,
+      "barangKeluar": 18,
+      "stokAkhir": 7
+    }
+  ]
+}
