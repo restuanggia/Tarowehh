@@ -428,13 +428,5 @@
   ],
   "riwayatPesanans": [],
   "stokBarang": [
-    {
-      "id": 1,
-      "tanggal": "2024-12-04",
-      "stokAwal": 5,
-      "jumlahMasuk": 20,
-      "barangKeluar": 18,
-      "stokAkhir": 7
-    }
   ]
 }
