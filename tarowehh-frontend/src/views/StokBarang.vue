@@ -107,7 +107,7 @@
                   <th>Jumlah Masuk</th>
                   <th>Barang Keluar</th>
                   <th>Stok Akhir</th>
-                  <!-- <th>Aksi</th> -->
+                  <th>Aksi</th>
                 </tr>
               </thead>
               <tbody>
