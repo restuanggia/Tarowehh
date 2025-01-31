@@ -118,7 +118,7 @@
                   <td>{{ item.jumlahMasuk }}</td>
                   <td>{{ item.barangKeluar }}</td>
                   <td>{{ item.stokAkhir }}</td>
-                  <!-- <td>
+                  <td>
                     <button
                       class="btn btn-warning btn-sm"
                       @click="editStok(item)"
@@ -131,7 +131,7 @@
                     >
                       Hapus
                     </button>
-                  </td> -->
+                  </td>
                 </tr>
               </tbody>
             </table>
