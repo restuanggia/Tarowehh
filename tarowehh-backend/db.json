@@ -67,21 +67,7 @@
       "gambar": "coklat.jpg"
     }
   ],
-  "keranjangs": [
-    {
-      "id": "6e4c",
-      "jumlah_pemesanan": "4",
-      "keterangan": "antar ke kampus",
-      "products": {
-        "id": "1",
-        "kode": "K-01",
-        "nama": "Tarowehh Original",
-        "harga": 9000,
-        "is_ready": true,
-        "gambar": "original.jpg"
-      }
-    }
-  ],
+  "keranjangs": [],
   "pesanans": [
     {
       "nama": "Restu Anggia",
