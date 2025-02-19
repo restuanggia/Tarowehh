@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col text-center">
-          @2024 Copyright <strong>Tarowehh</strong>
+          @2025 Copyright <strong>Tarowehh</strong>
         </div>
       </div>
     </div>
